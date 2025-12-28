@@ -2,3 +2,4 @@
 
 **Thrilled to share my Land Use Land Cover map of Bankura District developed using Google Earth Engine as part of my this project involved supervised classification (Random Forest), accuracy assessment, and generating area statistics for Urban, Vegetation, Agriculture, Barren land, and Waterbodies.**
 
+**Here's the Google Earth Engine Script based on JavaScript API**
