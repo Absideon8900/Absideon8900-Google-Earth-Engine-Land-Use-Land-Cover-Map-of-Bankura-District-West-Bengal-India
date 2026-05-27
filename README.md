@@ -753,16 +753,16 @@ var area_chart = ui.Chart.image.byClass({
     padding:"0px"
   });
 print(area_chart);
-//var legendChartPanel = ui.Panel({
-  //widgets: [area_chart],
-  //style: {
-    //position: 'top-left',
-    //width: '280px',
-    //height: '220px',
-    //padding: '0px 8px'
-  //}
-//});
-//Map.add(legendChartPanel);
+var legendChartPanel = ui.Panel({
+  widgets: [area_chart],
+  style: {
+    position: 'top-left',
+    width: '280px',
+    height: '220px',
+    padding: '0px 8px'
+  }
+});
+Map.add(legendChartPanel);
 ```
 </details>
 
