@@ -801,11 +801,11 @@ var bankura = ee.Geometry.Rectangle([W, S, E, N]); // Replace with your coordina
 
 | Class | Color | Area (km²) |
 |-------|-------|-----------|
-| Water | Blue | - |
-| Forest | Green | - |
-| Agriculture | Yellow | - |
-| Built-up | Red | - |
-| Barren Land | Gray | - |
+| Water | Blue | 0.54 Km² |
+| Forest | Green | 1.83 Km² |
+| Agriculture | Yellow | 2.94 Km² |
+| Built-up | Red | 2.61 Km² |
+| Barren Land | Gray | 0.42 Km² |
 
 *Update with your actual results*
 
