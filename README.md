@@ -147,7 +147,8 @@ var bankura = ee.Geometry.Rectangle([W, S, E, N]); // Replace with your coordina
 
 ### Land Use Land Cover Classification Map
 
-![LULC Map of Bankura District](https://lh7-us.googleusercontent.com/docsz/AD_4nXceKYU3WjX-RYz1B0PgvJHKLvwN1f4cEkkR8Xx96n2Z4Z3e1vEv8vsgA7jGpvV4jOdHxHWA-P1xMqhCvmRqt0EYTQkscLGcSGTLU8-FU-nX5b_7KTNBdJ1SzfB6PqZlqGtLZQBOKdJ--1pBiOakyGy-?key=mS3W37Np-KYZ7iC9n-MqBw)
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/367b2d32-2b03-4399-abee-141dddfa0915" />
+
 
 **Classification Results Summary:**
 
